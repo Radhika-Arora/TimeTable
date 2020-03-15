@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ResourceActivity"
+    android:orientation="vertical"
+
+    android:background="@color/red">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/resource"
+        android:id="@+id/im"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:hint="Enter the URL"
+        android:layout_below="@id/im"
+        android:layout_marginTop="140dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/yellow"
+        android:id="@+id/et"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Search"
+        android:gravity="center"
+        android:layout_below="@id/et"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/blue"
+        android:id="@+id/but"
+        />
+
+
+</RelativeLayout>

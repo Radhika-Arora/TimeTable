@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+        <item> Calendar</item>
+    </string-array>
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+        <item> Description 5</item>
+    </string-array>
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item> Data Structure Lab </item>
+        <item> Android Lab </item>
+        <item> Break </item>
+        <item> Android  </item>
+        <item> Computer Networking </item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item> Data Structure </item>
+        <item> Generic Elective </item>
+        <item> Break </item>
+        <item> Operating System</item>
+        <item> Operating System Lab </item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item> Data Structure </item>
+        <item> Operating System Lab</item>
+        <item> Break </item>
+        <item> Generic Elective</item>
+        <item> Computer Networking </item>
+        <item>Computer Networking Lab </item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>  Operating System </item>
+        <item>  Android Lab </item>
+        <item> Break </item>
+        <item> Android </item>
+        <item> Computer Networking  </item>
+        <item>  Data Structure Lab </item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> Computer Networking Lab </item>
+        <item> Generic Elective </item>
+        <item> Break </item>
+        <item> Tutorials </item>
+
+    </string-array>
+
+    <string-array name="time1">
+        <item>9:00AM - 11:00AM</item>
+        <item>11:00AM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>01:30PM - 2:30PM</item>
+        <item>2:30PM - 4:30PM</item>
+
+    </string-array>
+
+    <string-array name="time2">
+        <item>9:00AM - 11:00AM</item>
+        <item>11:00AM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>01:30PM - 3:30PM</item>
+        <item>3:30PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>9:00AM - 11:00AM</item>
+        <item>11:00AM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>01:30PM - 2:30PM</item>
+        <item>2:30PM - 3:30PM</item>
+        <item>3:30PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>9:00AM - 11:00AM</item>
+        <item>11:00AM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>01:30PM - 2:30PM</item>
+        <item>2:30PM - 3:30PM</item>
+        <item>3:30PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>9:00AM - 11:00AM</item>
+        <item>11:00AM - 01:00PM</item>
+        <item>01:00PM - 01:30PM</item>
+        <item>01:30PM - 03:30PM</item>
+
+    </string-array>
+    <string-array name="Subjects">
+        <item>Data Structure</item>
+        <item>Computer Networking </item>
+        <item>Generic Elective</item>
+        <item>Android</item>
+        <item>Operating System</item>
+    </string-array>
+
+    <string-array name="DataStructure">
+        <item>ADTs and arrays</item>
+        <item>Recursion</item>
+        <item>Linear and list structures</item>
+        <item>Searching algorithms</item>
+        <item>Tree structures</item>
+        <item>Adam Dorzek data structures 3rd edition</item>
+        <item>Sartaz Sahni data structure in c++</item>
+    </string-array>
+    <string-array name="ComputerNetworking">
+        <item>Introduction</item>
+        <item>Data Communication</item>
+        <item>Network Switching Techniques</item>
+        <item>Multiple Access Protocols</item>
+        <item>Layers</item>
+        <item>Data Communication and networking B.A Frouzan</item>
+        <item>Computer Networking Andrew</item>
+    </string-array>
+    <string-array name="GenericElective">
+        <item>Basic Concepts</item>
+        <item>Second Order Differential Equation</item>
+        <item>Wronskian</item>
+        <item>Homogeneous System</item>
+        <item>Patial Differntial Equation</item>
+        <item>Erwin Kreyszig,Advance Mathematics</item>
+        <item>TynMyint and LokenathDebnath Linear PDE</item>
+    </string-array>
+    <string-array name="Android">
+        <item>Introduction</item>
+        <item>OOPs Concept</item>
+        <item>Development of tools</item>
+        <item>UI Architecture and Design</item>
+        <item>Database</item>
+        <item>Android Application by James C Sheusi</item>
+        <item>Head first android development-Dawn Griffiths and David Griffiths</item>
+    </string-array>
+    <string-array name="OperatingSystem">
+        <item>Introduction</item>
+        <item>Operating System Structure</item>
+        <item>Processes,Threads,Process Scheduling</item>
+        <item>Memory Managements</item>
+        <item>File System</item>
+        <item>Andrew S.Tanenbaum (OS)</item>
+        <item>William Stallings(OS)</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Unit1</item>
+        <item>Unit2</item>
+        <item>Unit3</item>
+        <item>Unit4</item>
+        <item>Unit5</item>
+        <item>Reference Books</item>
+        <item>Other Books</item>
+    </string-array>
+    <string-array name="faculty_name">
+        <item> Ms.Maulein Pathak</item>
+        <item>Ms. Richa Gupta</item>
+        <item>Ms. Rashmeet Kaur  Chawla</item>
+        <item>Ms. Arpana Sharma</item>
+        <item>Mr.Rakesh Kumar</item>
+
+    </string-array>
+
+    <string-array name="MauleinPathak">
+        <item>9873713785</item>
+        <item>abc@gmail.com</item>
+    </string-array>
+    <string-array name="RichaGupta">
+        <item> 9821245698</item>
+        <item>rad@gmail.com</item>
+    </string-array>
+    <string-array name="RashmeetKaur">
+        <item> 9871278965</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+    <string-array name="Arpana">
+        <item> 9877745522</item>
+        <item>abc@gmail.com</item>
+    </string-array>
+    <string-array name="RakeshKumar">
+        <item> 9877123887</item>
+        <item>rak@gmail.com</item>
+    </string-array>
+</resources>
